@@ -1,0 +1,6 @@
+c:\users\d.andre\documents\visual studio 2015\Projects\XmlParser\XmlParser\bin\Debug\XmlParser.exe.config
+c:\users\d.andre\documents\visual studio 2015\Projects\XmlParser\XmlParser\obj\Debug\XmlParser.csprojResolveAssemblyReference.cache
+c:\users\d.andre\documents\visual studio 2015\Projects\XmlParser\XmlParser\bin\Debug\XmlParser.exe
+c:\users\d.andre\documents\visual studio 2015\Projects\XmlParser\XmlParser\bin\Debug\XmlParser.pdb
+c:\users\d.andre\documents\visual studio 2015\Projects\XmlParser\XmlParser\obj\Debug\XmlParser.exe
+c:\users\d.andre\documents\visual studio 2015\Projects\XmlParser\XmlParser\obj\Debug\XmlParser.pdb
